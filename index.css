@@ -1,0 +1,13 @@
+.todolist{
+    text-align: center;
+}
+
+.sub{
+    padding: 0;
+border: none;
+background: none;
+}
+
+.sub:focus {
+    outline: 0;
+}
